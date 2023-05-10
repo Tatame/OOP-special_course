@@ -1,1 +1,1 @@
-# OOP-spetial_course
+# OOP-special_course
